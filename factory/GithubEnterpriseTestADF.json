@@ -1,0 +1,9 @@
+{
+	"name": "GithubEnterpriseTestADF",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fb9e3f0-72c8-43ea-b9e3-30faaf4bf605",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
